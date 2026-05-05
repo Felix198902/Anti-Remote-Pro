@@ -1,27 +1,28 @@
 <div align="center">
 
-<a href="https://antigravity.apiai.eu.cc"><img src="https://antigravity.apiai.eu.cc/assets/icon.png" alt="Anti-Remote-Pro" width="96" height="96"></a>
+<a href="https://antigravity.apiai.eu.cc/?lang=en"><img src="https://antigravity.apiai.eu.cc/assets/icon.png" alt="Anti-Remote-Pro" width="96" height="96"></a>
 
 # Anti-Remote-Pro
 
 **The privacy-first, ban-proof, Telegram-controlled auto-pilot for [Antigravity](https://antigravity.dev) — Google's AI coding assistant.**
 **One Google account, unlimited devices.**
 
-### [🌐 Official Website &nbsp;·&nbsp; Download Now →](https://antigravity.apiai.eu.cc)
+### [🌐 Official Website &nbsp;·&nbsp; Download Now →](https://antigravity.apiai.eu.cc/?lang=en)
 
 <sub>
-  <a href="https://antigravity.apiai.eu.cc/?lang=en">English</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=zh-CN">简体中文</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=zh-TW">繁體中文</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=ja">日本語</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=ko">한국어</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=es">Español</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=fr">Français</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=de">Deutsch</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=pt">Português</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=ru">Русский</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=ar">العربية</a> &nbsp;·&nbsp;
-  <a href="https://antigravity.apiai.eu.cc/?lang=hi">हिन्दी</a>
+  📖 <b>Read this in:</b>
+  <b>English</b> &nbsp;·&nbsp;
+  <a href="./README.zh-CN.md">简体中文</a> &nbsp;·&nbsp;
+  <a href="./README.zh-TW.md">繁體中文</a> &nbsp;·&nbsp;
+  <a href="./README.ja.md">日本語</a> &nbsp;·&nbsp;
+  <a href="./README.ko.md">한국어</a> &nbsp;·&nbsp;
+  <a href="./README.es.md">Español</a> &nbsp;·&nbsp;
+  <a href="./README.fr.md">Français</a> &nbsp;·&nbsp;
+  <a href="./README.de.md">Deutsch</a> &nbsp;·&nbsp;
+  <a href="./README.pt.md">Português</a> &nbsp;·&nbsp;
+  <a href="./README.ru.md">Русский</a> &nbsp;·&nbsp;
+  <a href="./README.ar.md">العربية</a> &nbsp;·&nbsp;
+  <a href="./README.hi.md">हिन्दी</a>
 </sub>
 
 </div>
